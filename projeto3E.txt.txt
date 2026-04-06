@@ -1,0 +1,4 @@
+06/04/2026
+
+criei uma conta no GitHub, depois criei uma pasta no Windows com o nome (VERS3E), logo em seguida tive que fazer o download do git for Windows, depois dentro da pasta que fiz criei um  arquivo .txt.
+

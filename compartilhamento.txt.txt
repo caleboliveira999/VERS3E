@@ -1,0 +1,17 @@
+27.04
+
+caleb.
+hoje iremos aprender como se compartilha um arquivo .TXT. com um colega, e iremos modificar a linha que a pessoa 
+que compartilhamos fara.
+
+
+
+
+
+
+
+
+E com isso vamos aprender uma nova forma de mexer no git hub, e eu irei compartilhar o arquivo com o Caleb.
+
+
+

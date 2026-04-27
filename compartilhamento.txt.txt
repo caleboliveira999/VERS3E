@@ -12,6 +12,7 @@ que compartilhamos fara.
 
 
 E com isso vamos aprender uma nova forma de mexer no git hub, e eu irei compartilhar o arquivo com o Caleb.
+conseguimos fazer o compartilhamento e ja fizemos as alterações, agora iremos salvar e mostrar ao professor o arquivo feito
 
 
 
